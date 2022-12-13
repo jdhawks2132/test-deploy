@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-deploy/static/css/main.48ab35b5.css",
+    "main.js": "/test-deploy/static/js/main.e75f14aa.js",
+    "static/media/1.jpg": "/test-deploy/static/media/1.c6cb927606faf53a2527.jpg",
+    "index.html": "/test-deploy/index.html",
+    "main.48ab35b5.css.map": "/test-deploy/static/css/main.48ab35b5.css.map",
+    "main.e75f14aa.js.map": "/test-deploy/static/js/main.e75f14aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ab35b5.css",
+    "static/js/main.e75f14aa.js"
+  ]
+}
